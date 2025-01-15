@@ -1,3 +1,8 @@
+# For Shelf_Picking
+This is customized by CheminAhn for shelf_picking.
+This package is for composing Simulation Object.
+
+---
 cob_simulation
 ===========
 
